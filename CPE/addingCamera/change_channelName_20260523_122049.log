@@ -1,0 +1,19 @@
+[12:20:49] Updating channel names on NVR: 12.174.167.245:80
+[12:20:49] Log file: change_channelName_20260523_122049.log
+[12:20:49] ==========================================
+[12:20:49] 
+[12:20:49] --- Channel 46: "C240" | Camera IP: 10.32.101.62 ---
+[12:20:50]   [OK] Channel 46 renamed to "C240"
+[12:20:55] 
+[12:20:55] --- Channel 47: "C241" | Camera IP: 10.32.101.63 ---
+[12:20:56]   [OK] Channel 47 renamed to "C241"
+[12:21:01] 
+[12:21:01] --- Channel 48: "C242" | Camera IP: 10.32.101.64 ---
+[12:21:02]   [OK] Channel 48 renamed to "C242"
+[12:21:07] 
+[12:21:07] --- Channel 49: "C243" | Camera IP: 10.32.101.65 ---
+[12:21:08]   [OK] Channel 49 renamed to "C243"
+[12:21:13] 
+[12:21:13] ==========================================
+[12:21:13] DONE. Total: 4 | OK: 4 | FAIL: 0
+[12:21:13] Full log: change_channelName_20260523_122049.log

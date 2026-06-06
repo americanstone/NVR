@@ -1,0 +1,52 @@
+[13:49:33] Starting camera import to NVR: 12.174.167.245:80
+[13:49:33] Log file: add_cameras_20260517_134933.log
+[13:49:33] ==========================================
+[13:49:33] 
+[13:49:33] --- Camera #1 | Channel 31: C109 | IP: 10.32.101.47 ---
+[13:49:33]   [OK] Camera added to channel 31
+[13:49:34] 
+[13:49:34] --- Camera #2 | Channel 32: C110 | IP: 10.32.101.48 ---
+[13:49:35]   [OK] Camera added to channel 32
+[13:49:36] 
+[13:49:36] --- Camera #3 | Channel 33: C111 | IP: 10.32.101.49 ---
+[13:49:36]   [OK] Camera added to channel 33
+[13:49:37] 
+[13:49:37] --- Camera #4 | Channel 34: C112 | IP: 10.32.101.50 ---
+[13:49:37]   [OK] Camera added to channel 34
+[13:49:38] 
+[13:49:38] --- Camera #5 | Channel 35: C113 | IP: 10.32.101.51 ---
+[13:49:39]   [OK] Camera added to channel 35
+[13:49:40] 
+[13:49:40] --- Camera #6 | Channel 36: C140 | IP: 10.32.101.52 ---
+[13:49:40]   [OK] Camera added to channel 36
+[13:49:41] 
+[13:49:41] --- Camera #7 | Channel 37: C141 | IP: 10.32.101.53 ---
+[13:49:41]   [OK] Camera added to channel 37
+[13:49:43] 
+[13:49:43] --- Camera #8 | Channel 38: C142 | IP: 10.32.101.54 ---
+[13:49:43]   [OK] Camera added to channel 38
+[13:49:44] 
+[13:49:44] --- Camera #9 | Channel 39: C143 | IP: 10.32.101.55 ---
+[13:49:44]   [OK] Camera added to channel 39
+[13:49:45] 
+[13:49:45] --- Camera #10 | Channel 40: C144 | IP: 10.32.101.56 ---
+[13:49:46]   [OK] Camera added to channel 40
+[13:49:47] 
+[13:49:47] --- Camera #11 | Channel 41: C171 | IP: 10.32.101.57 ---
+[13:49:47]   [OK] Camera added to channel 41
+[13:49:48] 
+[13:49:48] --- Camera #12 | Channel 42: C172 | IP: 10.32.101.58 ---
+[13:49:48]   [OK] Camera added to channel 42
+[13:49:49] 
+[13:49:49] --- Camera #13 | Channel 43: C173 | IP: 10.32.101.59 ---
+[13:49:50]   [OK] Camera added to channel 43
+[13:49:51] 
+[13:49:51] --- Camera #14 | Channel 44: C174 | IP: 10.32.101.60 ---
+[13:49:51]   [OK] Camera added to channel 44
+[13:49:52] 
+[13:49:52] --- Camera #15 | Channel 45: C175 | IP: 10.32.101.61 ---
+[13:49:53]   [OK] Camera added to channel 45
+[13:49:54] 
+[13:49:54] ==========================================
+[13:49:54] DONE. Total: 15 | OK: 0 | FAIL: 0
+[13:49:54] Full log saved to: add_cameras_20260517_134933.log

@@ -1,0 +1,43 @@
+[12:12:46] Starting camera import to NVR: 208.222.23.136:81
+[12:12:46] Log file: add_cameras_20260508_121246.log
+[12:12:46] ==========================================
+[12:12:46] 
+[12:12:46] --- Camera #1 | Channel 100: C501 | IP: 10.32.200.92 ---
+[12:12:48]   [OK] Camera added to channel 100
+[12:12:49] 
+[12:12:49] --- Camera #2 | Channel 101: C502 | IP: 10.32.200.93 ---
+[12:12:55]   [OK] Camera added to channel 101
+[12:12:56] 
+[12:12:56] --- Camera #3 | Channel 102: C503 | IP: 10.32.200.94 ---
+[12:13:02]   [OK] Camera added to channel 102
+[12:13:03] 
+[12:13:03] --- Camera #4 | Channel 103: C504 | IP: 10.32.200.95 ---
+[12:13:10]   [OK] Camera added to channel 103
+[12:13:11] 
+[12:13:11] --- Camera #5 | Channel 104: C505 | IP: 10.32.200.96 ---
+[12:13:17]   [OK] Camera added to channel 104
+[12:13:18] 
+[12:13:18] --- Camera #6 | Channel 105: C506 | IP: 10.32.200.101 ---
+[12:13:23]   [OK] Camera added to channel 105
+[12:13:24] 
+[12:13:24] --- Camera #7 | Channel 106: C507 | IP: 10.32.200.102 ---
+[12:13:30]   [OK] Camera added to channel 106
+[12:13:31] 
+[12:13:31] --- Camera #8 | Channel 107: C508 | IP: 10.32.200.103 ---
+[12:13:36]   [OK] Camera added to channel 107
+[12:13:37] 
+[12:13:37] --- Camera #9 | Channel 108: C509 | IP: 10.32.200.104 ---
+[12:13:43]   [OK] Camera added to channel 108
+[12:13:44] 
+[12:13:44] --- Camera #10 | Channel 109: C510 | IP: 10.32.200.105 ---
+[12:13:49]   [OK] Camera added to channel 109
+[12:13:51] 
+[12:13:51] --- Camera #11 | Channel 110: C511 | IP: 10.32.200.106 ---
+[12:13:56]   [OK] Camera added to channel 110
+[12:13:57] 
+[12:13:57] --- Camera #12 | Channel 111: C512 | IP: 10.32.200.107 ---
+[12:14:03]   [OK] Camera added to channel 111
+[12:14:04] 
+[12:14:04] ==========================================
+[12:14:04] DONE. Total: 12 | OK: 0 | FAIL: 0
+[12:14:04] Full log saved to: add_cameras_20260508_121246.log
